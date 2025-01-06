@@ -1,0 +1,5 @@
+scikit-learn
+# 7:02
+pandas
+numpy
+flask   
